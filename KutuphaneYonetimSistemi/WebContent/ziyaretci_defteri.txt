@@ -1,0 +1,8 @@
+<b>Gönderen</b> Ali Can<br><b>Email</b> <a href ='mailto:ali@can.com'>ali@can.com</a><br><b>Mesaj: </b> Merhaba neattar gözel bir site olmuş.<hr>
+<b>Gönderen</b> selami sarp<br><b>Email</b> <a href ='mailto:ss@sss.com'>ss@sss.com</a><br><b>Mesaj: </b> merhabayn lolo lolo<hr>
+<b>Gönderen</b> can can<br><b>Email</b> <a href ='mailto:acac@cc.com'>acac@cc.com</a><br><b>Mesaj: </b> merhaba<hr>
+<b>Gönderen</b> null<br><b>Email</b> <a href ='mailto:null'>null</a><br><b>Mesaj: </b>null<hr>
+<b>Gönderen</b> sesi<br><b>Email</b> <a href ='mailto:ses@sesi.com'>ses@sesi.com</a><br><b>Mesaj: </b>ses verdim<hr>
+<b>Gönderen</b> Seri<br><b>Email</b> <a href ='mailto:ser@ser.com'>ser@ser.com</a><br><b>Mesaj: </b>deneme<hr>
+<b>Gönderen</b> selim dert<br><b>Email</b> <a href ='mailto:sasas@sdsds'>sasas@sdsds</a><br><b>Mesaj: </b>derededee<hr>
+<b>Gönderen</b> selim dert<br><b>Email</b> <a href ='mailto:sasas@sdsdsssssssssssss'>sasas@sdsdsssssssssssss</a><br><b>Mesaj: </b>ssssssssssssssssssssssssssssssssss<hr>
